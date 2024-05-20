@@ -3,7 +3,7 @@ kind: BaseRepo
 metadata:
   name: main
 spec:
-  repo: https://github.com/microsoft/kalypso-control-plane
+  repo: https://github.com/temporg235/testgitops-control-plane
   branch: main
   path: .
-  commit: 5523a85f37d12c0c7c10ab6616644db089fcd6f7
+  commit: d217ba7f1b83cc3a7986048fc72b229b150e263b
